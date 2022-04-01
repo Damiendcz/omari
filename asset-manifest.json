@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Damiendcz/omari/static/css/main.00c9bb54.css",
+    "main.js": "/Damiendcz/omari/static/js/main.e9b64119.js",
+    "static/js/787.ded6ce2a.chunk.js": "/Damiendcz/omari/static/js/787.ded6ce2a.chunk.js",
+    "static/media/curse-installation.png": "/Damiendcz/omari/static/media/curse-installation.5fa79003055c018b531a.png",
+    "static/media/openFolder-installation.png": "/Damiendcz/omari/static/media/openFolder-installation.ae8411d565665f7a44b1.png",
+    "static/media/launcher-installation.png": "/Damiendcz/omari/static/media/launcher-installation.056f45bc196103cc5717.png",
+    "static/media/copyFile.png": "/Damiendcz/omari/static/media/copyFile.27d126a7ee52f102c3ff.png",
+    "static/media/minecraft_PNG94.png": "/Damiendcz/omari/static/media/minecraft_PNG94.6482d492f752cb10427d.png",
+    "static/media/OMARI.png": "/Damiendcz/omari/static/media/OMARI.17e695acb0e4c77c8486.png",
+    "index.html": "/Damiendcz/omari/index.html",
+    "main.00c9bb54.css.map": "/Damiendcz/omari/static/css/main.00c9bb54.css.map",
+    "main.e9b64119.js.map": "/Damiendcz/omari/static/js/main.e9b64119.js.map",
+    "787.ded6ce2a.chunk.js.map": "/Damiendcz/omari/static/js/787.ded6ce2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00c9bb54.css",
+    "static/js/main.e9b64119.js"
+  ]
+}
