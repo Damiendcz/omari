@@ -15,12 +15,12 @@ function App() {
         </header>
         <section className='main__section__container'>
           <div className='main__info__container'>
-            <h1>Rejoignez Omari Serveur !</h1>
+            <h1>Rejoignez Omari Serveur ! lolo</h1>
             <p>Serveur Better Minecraft, plus de 220 mods installés !</p>
             <p className='main__info__server__name'>omari.mine.fun</p>
           </div>
           <div className='main__img__container'>
-            <img src={uiAsset}/>
+            <img src={uiAsset} alt="img"/>
           </div>
         </section>
         <section className='install__container'>
@@ -40,7 +40,7 @@ function App() {
           <ol className='list__install'>
             <li>1) Dans un premier temps, vous devez télécharger <a href='https://download.curseforge.com/'>CurseForge</a> qui vous servira à télécharger le modpack. Choisisez la version correspondante à votre système d'expoitation (Windows ou Mac) et procédez à son installation.</li>
             <li>2) Dans un second temps, lancez CurseForge, choisisez le jeu Minecraft et rechercher Better Minecraft. Installez Better Minecraft [Forge] 1.16.5.
-              <img className='list__img' src={curseInstallation}/>
+              <img className='list__img' src={curseInstallation} alt="img"/>
             </li>
             <li>3) Cliquez sur Play, le launcher Minecraft se lancera automatiquement. Lancez le jeu.</li>
           </ol>
@@ -52,14 +52,14 @@ function App() {
           <ol className='list__install'>
             <li>1) Dans un premier temps, vous devez télécharger un launcher pour lancer le jeu. Nous vous conseillons <a href='https://atlauncher.com/downloads'>ATLauncher</a>. Choisisez la version correspondante à votre système d'expoitation (Windows ou Mac, Linux) et procédez à son installation.</li>
             <li>2) Dans un second temps, lancez le launcher et installez une version Forge 1.16.5. Lancez l'intallation.
-              <img className='list__img' src={launcherInstallation}/>
+              <img className='list__img' src={launcherInstallation} alt="img"/>
             </li>
             <li>3) Une fois l'installation effectuée, rendez vous dans le dossier d'installation du jeu en cliquant ici : 
-                <img className='list__img' src={openFolderImg}/>
+                <img className='list__img' src={openFolderImg} alt="img"/>
                </li>
             <li>4) Télécharger le <a href="https://mega.nz/file/dolGVCaI#UiJgwtbwl1G2KjP_PYh5GOMPLyHh-vLibx1NvV6tLgs">packminecraft.rar</a></li>
             <li>5) Copié l'intégralité du dossier a_copié de l'archive "packminecraft.rar" que vous venez de télécharger
-              <img className='list__img' src={copyFileImg}/>
+              <img className='list__img' src={copyFileImg} alt="img"/>
             </li>
             <li>6) Retournez dans le launcher Minecraft, cochez "Mettre à jour le client" et lancez le jeu. Le premier lancement peut prendre du temps</li>
           </ol>
