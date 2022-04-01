@@ -58,7 +58,7 @@ function App() {
                 <img className='list__img' src={openFolderImg} alt="img"/>
                </li>
             <li>4) Télécharger le <a href="https://mega.nz/file/dolGVCaI#UiJgwtbwl1G2KjP_PYh5GOMPLyHh-vLibx1NvV6tLgs">packminecraft.rar</a></li>
-            <li>5) Copié l'intégralité du dossier a_copié de l'archive "packminecraft.rar" que vous venez de télécharger
+            <li>5) Copié l'intégralité du dossier a_copié de l'archive "packminecraft.rar" que vous venez de télécharger dans le dossier d'installation du jeu et cliquez sur tout remplacer
               <img className='list__img' src={copyFileImg} alt="img"/>
             </li>
             <li>6) Retournez dans le launcher Minecraft, cochez "Mettre à jour le client" et lancez le jeu. Le premier lancement peut prendre du temps</li>
