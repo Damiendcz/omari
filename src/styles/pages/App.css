@@ -193,6 +193,7 @@ flex-direction: column;
 
 .list__install li {
   margin-top: 1rem;
+  text-align: initial;
 }
 
 .list__install li a {
@@ -218,6 +219,48 @@ flex-direction: column;
 @media only screen and (max-width: 600px) {
   .connect__info {
     font-size: 1rem;
+  }
+
+  .header__container img {
+    width: 50vw;
+  }
+
+  .main__info__container {
+    padding: 0;
+  }
+
+  .install__type__container {
+    padding: 1rem;
+    border-radius: 20px;
+    background: #282c34;
+    box-shadow:  5px 5px 10px #22252c,
+             -5px -5px 10px #2e333c;
+  }
+
+  .install__type__container p {
+    font-size: 1rem;
+    text-align: center;
+  }
+
+  .install__container__btn {
+    padding: 0.5 0.75;
+    font-size: 1rem;
+  }
+
+  .legal__install__container h1 {
+    font-size: 2rem;
+  }
+
+  .illegal__install__container h1 {
+    font-size: 2rem;
+  }
+
+  .list__install {
+    padding: 0;
+  }
+
+  .list__install li {
+    text-align: initial;
   }
 }
 /* Small devices (portrait tablets and large phones, 600px and up) */

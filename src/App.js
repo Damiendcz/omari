@@ -15,7 +15,7 @@ function App() {
         </header>
         <section className='main__section__container'>
           <div className='main__info__container'>
-            <h1>Rejoignez Omari Serveur ! lolo</h1>
+            <h1>Rejoignez Omari Serveur !</h1>
             <p>Serveur Better Minecraft, plus de 220 mods installés !</p>
             <p className='main__info__server__name'>omari.mine.fun</p>
           </div>
